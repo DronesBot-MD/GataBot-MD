@@ -25,7 +25,6 @@
  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:centergatabot@gmail.com)
 [![Support](https://img.shields.io/badge/Support-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/SoporteGataBot)
-[![WhatsApp](https://img.shields.io/badge/STAFF-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/message/C45GXBEFTPONE1)
 
 ----
 # 📍 Atajos del README
@@ -65,20 +64,20 @@ apt update -y && yes | apt upgrade && pkg install -y bash wget mpv && wget -O - 
 // Parámetros editables
 
 // REFERENCIA
-"wget -O - https://raw.githubusercontent.com/GataNina-Li/GataBot-MD/master/gata.sh | bash"
+"wget -O - https://raw.githubusercontent.com/DronesBot-MD/MurderDronesBot-MD/master/gata.sh | bash"
 
 // PARÁMETROS QUE PUEDE SER MODIFICADOS --> "[...]"
 // Reemplace por su usuario de GitHub, y nombre del repositorio
 "wget -O - https://raw.githubusercontent.com/[usuario]/[repositorio]/master/gata.sh | bash"
 ```
-#### MODIFICAR ARCHIVO [`gata.sh`](https://github.com/GataNina-Li/GataBot-MD/blob/master/gata.sh)
+#### MODIFICAR ARCHIVO [`gata.sh`](https://github.com/DronesBot-MD/MurderDronesBot-MD/blob/master/gata.sh)
 ```js
 //LÍNEAS A MODIFICAR
 205 --> "git clone https://github.com/[user]/[repositorio].git"
-//Ejemplo: git clone https://github.com/GataNina-Li/GataBot-MD.git
+//Ejemplo: git clone https://github.com/DronesBot-MD/MurderDronesBot-MD.git
 
 209 --> "cd [repositorio]"
-//Ejemplo: cd GataBot-MD
+//Ejemplo: cd MurderDronesBot-MD
 
 //Una vez hecho estos cambios ejecute los nuevos comandos en Termux
 ```
@@ -92,7 +91,7 @@ termux-setup-storage
 apt update && apt upgrade && pkg install -y git nodejs ffmpeg imagemagick yarn
 ```
 ```bash
-git clone https://github.com/GataNina-Li/GataBot-MD && cd GataBot-MD
+git clone https://github.com/DronesBot-MD/MurderDronesBot-MD && cd MurderDronesBot-MD
 ```
 ```bash
 yarn install && npm install
