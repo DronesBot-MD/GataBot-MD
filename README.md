@@ -323,19 +323,16 @@ Si tiene éxito, le dará un mensaje como: `SUCCESS: specified value was saved`.
 </details>
 
 <details>
-<summary><b>¿Qué significa ser un Distribuidor Autorizado o reseller en GataBot?</b></summary>
+<summary><b>¿Qué significa ser un Distribuidor Autorizado o reseller en MurderDronesBot?</b></summary>
   
 - Aquellos usuarios que adquieran la licencia de Distribuidores Autorizados o resellers obtienen el derecho legal de utilizar este repositorio para fines educativos, políticos o comerciales, sin poner en riesgo su reputación personal u organizacional.
 </details>
 
 <details>
-<summary><b>¿Dónde puedes solicitar la licencia para ser Distribuidor Autorizado o reseller de GataBot?</b></summary>
-
-  - Te ofrecemos opciones exclusivas: **[Instagram](https://www.instagram.com/gata_dios/)**, **[Telegram](https://t.me/SoporteGataBot)**, y **[correo electrónico](centergatabot@gmail.com)**.
-</details>
+<summary><b>¿Dónde puedes solicitar la licencia para ser Distribuidor Autorizado o reseller de MurderDronesBot?</b></summary>
 
 <details>
-<summary><b>¿Cómo puedo verificar quién es un distribuidor autorizado en GataBot?</b></summary>
+<summary><b>¿Cómo puedo verificar quién es un distribuidor autorizado en MurderDronesBot?</b></summary>
 
   - Lo hemos simplificado para ti. Si deseas conocer la lista y contactar al reseller para verificar su autenticidad, simplemente visita este **[enlace](https://github.com/GataNina-Li/GataBot-MD/blob/master/dealers.md)**. La licencia debe estar disponible públicamente en el repositorio del distribuidor, y si tanto su nombre de usuario en GitHub como el código de la licencia coinciden con nuestra lista, significa que está **[verificado](https://github.com/GataNina-Li/GataBot-MD/blob/master/terms.md)** como parte de resellers de GataBot. **¡Estamos aquí para garantizar transparencia y calidad en nuestra red de distribución!**
 </details>
@@ -351,8 +348,4 @@ Si tiene éxito, le dará un mensaje como: `SUCCESS: specified value was saved`.
 #### 🌐 Hindi (Indian Language)
 - [x] Ejemplo <details><summary>Idioma</summary><img src="https://i.imgur.com/ZTwOGkT.jpg"></details>
 ----
-
-
-### 🌟 AGRADECIMIENTOS
-[![TheShadowBrokers1](https://github.com/BrunoSobrino.png?size=60)](https://github.com/BrunoSobrino) 
 
